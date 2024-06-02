@@ -5,3 +5,5 @@ c = 40;
 
 console.log(a, b, c);
 const isCreatesConfilct = true;
+
+const conflictIsResolved = true;
